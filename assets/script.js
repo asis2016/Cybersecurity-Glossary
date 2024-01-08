@@ -15,6 +15,7 @@ const main = () => {
             }
         })
         .then(data => {
+            console.log(data)
             accordionContainer(data)
         })
         .catch(error => {
@@ -39,7 +40,7 @@ const accordionContainer = (data) => {
             <h1 class='accordion-header'>
                 <button class='accordion-button collapsed' type='button' data-bs-toggle='collapse' 
                         data-bs-target='#flush-collapse${i}' aria-expanded='false' aria-controls='flush-collapse${i}'>
-                    ${item['English']}
+                    ${item['Term']}
                 </button>
             </h1>
             <div id='flush-collapse${i}' class='accordion-collapse collapse' data-bs-parent='#accordionFlushMain'>
@@ -50,7 +51,7 @@ const accordionContainer = (data) => {
                             <img src='assets/images/de.png' alt='' width='25' height='25'>
                         </span>
                         <p>
-                            ${item['German']}
+                            ${item['QuickSummary']}
                         </p>
                     </div>
                     <!-- quick summary ends -->
