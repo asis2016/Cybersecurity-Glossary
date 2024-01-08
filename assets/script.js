@@ -2,7 +2,8 @@
 /*
  * Main
  */
-const BASEURL = ''
+
+const BASEURL = 'https://asis2016.github.io/Cybersecurity-Glossary/assets/dictionary/dictionary.en.minified.json'
 
 const main = () => {
     fetch(BASEURL)
