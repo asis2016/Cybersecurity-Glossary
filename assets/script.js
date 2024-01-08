@@ -47,9 +47,9 @@ const accordionContainer = (data) => {
                 <div class='accordion-body'>
                     <!-- quick summary -->
                     <div class='d-flex pt-2'>
-                        <span class='me-3'>
+                        <!--<span class='me-3'>
                             <img src='assets/images/de.png' alt='' width='25' height='25'>
-                        </span>
+                        </span>-->
                         <p>
                             ${item['QuickSummary']}
                         </p>
