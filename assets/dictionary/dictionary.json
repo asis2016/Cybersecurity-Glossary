@@ -20,6 +20,11 @@
         "Ref": ""
     },
     {
+        "Term": "Deprovisioning",
+        "QuickSummary": "In digital identity, deprovisioing refers to act of removing identities from the system once the \u201cuser\u201d is at the end of their digital identity lifecycle.",
+        "Ref": "3"
+    },
+    {
         "Term": "Doppelganger domain",
         "QuickSummary": "A \u201cfake\u201d domain name that looks similar to the real domain; that serves a fake version of the real website.",
         "Ref": "1"
@@ -58,5 +63,10 @@
         "Term": "Reverse Proxy",
         "QuickSummary": "A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server",
         "Ref": "2"
+    },
+    {
+        "Term": "Zero-day start",
+        "QuickSummary": "\u201cZero-day start\u201d means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately.",
+        "Ref": "3"
     }
 ]
