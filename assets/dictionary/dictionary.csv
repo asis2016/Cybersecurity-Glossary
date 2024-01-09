@@ -3,5 +3,5 @@ IDM,Identity and Access Management,
 Access Control List (ACL), ACL is a list of rules that grants or denies users or systems for a particular resource,
 Exploit,A piece of code that takes advantage of vulnerabilities or security flaws,1
 Kali Linux,Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools,1
-Metasploit,A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. ,
+Metasploit,A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development,
 Reverse Proxy,A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server,2
