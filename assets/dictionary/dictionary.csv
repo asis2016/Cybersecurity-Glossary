@@ -5,11 +5,11 @@ Exploit,A piece of code that takes advantage of vulnerabilities or security flaw
 Kali Linux,Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools,1
 Metasploit,A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development,
 Reverse Proxy,A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server,2
-Distributed Denial-of-Service (DDoS) Attack,The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted.,0
+Distributed Denial-of-Service (DDoS) Attack,The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted,0
 Firewall,A software that continuously monitors and controls for incoming and outgoing traffic based on security rules,1
-Likejacking,A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it.,1
-Clickjacking,Click-hijacking; tricking someone to click something for malicious purposes.,11
-Doppelganger domain,A “fake” domain name that looks similar to the real domain; that serves a fake version of the real website.,1
+Likejacking,A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it,1
+Clickjacking,Click-hijacking; tricking someone to click something for malicious purposes,11
+Doppelganger domain,A “fake” domain name that looks similar to the real domain; that serves a fake version of the real website,1
 Cryptography,“The science of making the cost of discovery of hidden information greater than the value of information itself”,3
-Zero-day start,"“Zero-day start” means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately.",3
-Deprovisioning,"In digital identity, deprovisioing refers to act of removing identities from the system once the “user” is at the end of their digital identity lifecycle.",3
+Zero-day start,"“Zero-day start” means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",3
+Deprovisioning,"In digital identity, deprovisioing refers to act of removing identities from the system once the “user” is at the end of their digital identity lifecycle",3

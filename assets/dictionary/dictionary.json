@@ -6,7 +6,7 @@
     },
     {
         "Term": "Clickjacking",
-        "QuickSummary": "Click-hijacking; tricking someone to click something for malicious purposes.",
+        "QuickSummary": "Click-hijacking; tricking someone to click something for malicious purposes",
         "Ref": "11"
     },
     {
@@ -16,17 +16,17 @@
     },
     {
         "Term": "Deprovisioning",
-        "QuickSummary": "In digital identity, deprovisioing refers to act of removing identities from the system once the \u201cuser\u201d is at the end of their digital identity lifecycle.",
+        "QuickSummary": "In digital identity, deprovisioing refers to act of removing identities from the system once the \u201cuser\u201d is at the end of their digital identity lifecycle",
         "Ref": "3"
     },
     {
         "Term": "Distributed Denial-of-Service (DDoS) Attack",
-        "QuickSummary": "The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted.",
+        "QuickSummary": "The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted",
         "Ref": "0"
     },
     {
         "Term": "Doppelganger domain",
-        "QuickSummary": "A \u201cfake\u201d domain name that looks similar to the real domain; that serves a fake version of the real website.",
+        "QuickSummary": "A \u201cfake\u201d domain name that looks similar to the real domain; that serves a fake version of the real website",
         "Ref": "1"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "Term": "Likejacking",
-        "QuickSummary": "A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it.",
+        "QuickSummary": "A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it",
         "Ref": "1"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
         "Term": "Zero-day start",
-        "QuickSummary": "\u201cZero-day start\u201d means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately.",
+        "QuickSummary": "\u201cZero-day start\u201d means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",
         "Ref": "3"
     }
 ]
