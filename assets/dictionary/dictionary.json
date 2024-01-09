@@ -15,14 +15,14 @@
         "Ref": "3"
     },
     {
-        "Term": "Ddos",
-        "QuickSummary": "",
-        "Ref": ""
-    },
-    {
         "Term": "Deprovisioning",
         "QuickSummary": "In digital identity, deprovisioing refers to act of removing identities from the system once the \u201cuser\u201d is at the end of their digital identity lifecycle.",
         "Ref": "3"
+    },
+    {
+        "Term": "Distributed Denial-of-Service (DDoS) Attack",
+        "QuickSummary": "The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted.",
+        "Ref": "0"
     },
     {
         "Term": "Doppelganger domain",

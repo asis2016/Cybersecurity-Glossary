@@ -13,7 +13,7 @@ For support, email hello@amaharjan.de.
 ## License
 [MIT](LICENSE)
 
-## References
+<h2 id="cg-ref-0">References</h2>
 <ol>
 	<li id="cg-ref-1">
 	 M. McDonald, Web Security for Developers: Real Threats, Practical Defense. No Starch Press, 2020.

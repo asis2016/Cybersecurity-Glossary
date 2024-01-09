@@ -5,7 +5,7 @@ Exploit,A piece of code that takes advantage of vulnerabilities or security flaw
 Kali Linux,Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools,1
 Metasploit,A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development,
 Reverse Proxy,A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server,2
-Ddos,,
+Distributed Denial-of-Service (DDoS) Attack,The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted.,0
 Firewall,A software that continuously monitors and controls for incoming and outgoing traffic based on security rules,1
 Likejacking,A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it.,1
 Clickjacking,Click-hijacking; tricking someone to click something for malicious purposes.,11
