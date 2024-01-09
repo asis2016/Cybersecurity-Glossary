@@ -45,4 +45,7 @@ For support, email hello@amaharjan.de.
 	<li id="cg-ref-10">
 	 “Metasploit,” Metasploit. https://www.metasploit.com/ (accessed Jan. 09, 2024).
 	</li>
+	<li id="cg-ref-11">
+	 “Clickjacking,” OWASP Foundation. https://owasp.org/www-community/attacks/Clickjacking (accessed Jan. 09, 2024).
+	</li>
 </ol>

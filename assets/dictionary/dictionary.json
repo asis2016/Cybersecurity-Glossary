@@ -5,8 +5,33 @@
         "Ref": ""
     },
     {
+        "Term": "Clickjacking",
+        "QuickSummary": "Click-hijacking; tricking someone to click something for malicious purposes.",
+        "Ref": "11"
+    },
+    {
+        "Term": "Cryptography",
+        "QuickSummary": "\u201cThe science of making the cost of discovery of hidden information greater than the value of information itself\u201d",
+        "Ref": "3"
+    },
+    {
+        "Term": "Ddos",
+        "QuickSummary": "",
+        "Ref": ""
+    },
+    {
+        "Term": "Doppelganger domain",
+        "QuickSummary": "A \u201cfake\u201d domain name that looks similar to the real domain; that serves a fake version of the real website.",
+        "Ref": "1"
+    },
+    {
         "Term": "Exploit",
         "QuickSummary": "A piece of code that takes advantage of vulnerabilities or security flaws",
+        "Ref": "1"
+    },
+    {
+        "Term": "Firewall",
+        "QuickSummary": "A software that continuously monitors and controls for incoming and outgoing traffic based on security rules",
         "Ref": "1"
     },
     {
@@ -17,6 +42,11 @@
     {
         "Term": "Kali Linux",
         "QuickSummary": "Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools",
+        "Ref": "1"
+    },
+    {
+        "Term": "Likejacking",
+        "QuickSummary": "A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it.",
         "Ref": "1"
     },
     {
