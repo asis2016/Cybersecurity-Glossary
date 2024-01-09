@@ -23,5 +23,10 @@
         "Term": "Metasploit",
         "QuickSummary": "A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. ",
         "Ref": ""
+    },
+    {
+        "Term": "Reverse Proxy",
+        "QuickSummary": "A reverse proxy server is a type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server.",
+        "Ref": "2"
     }
 ]

@@ -16,8 +16,7 @@ For support, email hello@amaharjan.de.
 
 ## References
 
-- [1] M. McDonald, Web Security for Developers: Real Threats, Practical Defense. No Starch Press, 2020.
--
-
+[1] M. McDonald, Web Security for Developers: Real Threats, Practical Defense. No Starch Press, 2020.<br/>
+[2] A. Maharjan, “Reverse proxy,” Ashish S. Maharjan, Dec. 26, 2022. https://amaharjan.de/reverse-proxy/ (accessed Jan. 09, 2024).<br/>
 
 
