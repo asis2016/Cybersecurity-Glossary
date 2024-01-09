@@ -15,7 +15,6 @@ const main = () => {
             }
         })
         .then(data => {
-            console.log(data)
             accordionContainer(data)
         })
         .catch(error => {
