@@ -51,7 +51,12 @@ const accordionContainer = (data) => {
                             <img src='assets/images/de.png' alt='' width='25' height='25'>
                         </span>-->
                         <p>
+                            <span>
                             ${item['QuickSummary']}
+                            </span>
+                            <span>
+                            &nbsp;(<a href="#">ref.</a>).
+                            </span>
                         </p>
                     </div>
                     <!-- quick summary ends -->
