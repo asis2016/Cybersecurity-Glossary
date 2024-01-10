@@ -5,9 +5,6 @@ Cybersecurity Glossary from A to Z (2024).
 
 [Demo](https://asis2016.github.io/Cybersecurity-Glossary/)
 
-## Screenshot
-!["screenshot"](screenshot.png)
-
 ## Contributing
 Contributions are always welcome! Please contact hello@amaharjan.de.
 
