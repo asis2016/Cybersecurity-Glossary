@@ -4,10 +4,8 @@ let STATIC_CS_G = 'cybersecurity-glossary-v1';
 let ASSETS = [
     './',
     './index.html',
-    './assets/js/bootstrap.bundle.min.js',
     './assets/js/color-modes.js',
     './assets/js/script.js',
-    './assets/css/bootstrap.min.css',
     './assets/css/style.css'
 ]
 
