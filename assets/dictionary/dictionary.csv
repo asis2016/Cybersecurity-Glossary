@@ -13,4 +13,5 @@ Doppelganger domain,A “fake” domain name that looks similar to the real doma
 Cryptography,“The science of making the cost of discovery of hidden information greater than the value of information itself”,3,
 Zero-day start,"“Zero-day start” means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",3,
 Deprovisioning,"In digital identity, deprovisioing refers to act of removing identities from the system once the “user” is at the end of their digital identity lifecycle",3,
-Content delivery network  (CDN),"CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data.",12,
+Content delivery network  (CDN),"CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",12,
+Traceroute,Traceroute is a network diagnostic command that print the route packets take to network host,13,

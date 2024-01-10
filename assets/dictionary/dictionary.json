@@ -13,7 +13,7 @@
     },
     {
         "Term": "Content delivery network  (CDN)",
-        "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data.",
+        "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",
         "Ref": "12",
         "": ""
     },
@@ -81,6 +81,12 @@
         "Term": "Reverse Proxy",
         "QuickSummary": "A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server",
         "Ref": "2",
+        "": ""
+    },
+    {
+        "Term": "Traceroute",
+        "QuickSummary": "Traceroute is a network diagnostic command that print the route packets take to network host",
+        "Ref": "13",
         "": ""
     },
     {

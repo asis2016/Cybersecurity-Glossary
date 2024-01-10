@@ -49,4 +49,7 @@ Contributions are always welcome! Please contact hello@amaharjan.de.
 	<li id="cg-ref-12">
 	 A. Vakali and G. Pallis, “Content delivery networks: Status and trends,” IEEE Internet Computing, vol. 7, no. 6, pp. 68–74, Nov. 2003, doi: 10.1109/mic.2003.1250586.
 	</li>
+	<li id="cg-ref-13">
+	 “FreeBSD Manual Pages.” https://man.freebsd.org/cgi/man.cgi (accessed Jan. 10, 2024).
+	</li>
 </ol>
