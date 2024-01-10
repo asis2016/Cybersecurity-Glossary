@@ -2,7 +2,7 @@
   "lang": "en-US",
   "name": "Cybersecurity Glossary v1",
   "short_name": "CG",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
