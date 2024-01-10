@@ -6,16 +6,16 @@
         "": ""
     },
     {
-        "Term": "CDN",
-        "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data.",
-        "Ref": "12",
-        "": ""
-    },
-    {
         "Term": "Clickjacking",
         "QuickSummary": "Click-hijacking",
         "Ref": " tricking someone to click something for malicious purposes",
         "": "11"
+    },
+    {
+        "Term": "Content delivery network  (CDN)",
+        "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data.",
+        "Ref": "12",
+        "": ""
     },
     {
         "Term": "Cryptography",
