@@ -55,4 +55,7 @@ Contributions are always welcome! Please contact hello@amaharjan.de.
 	<li id="cg-ref-14">
 	 “W3Schools Online Web Tutorials.” https://www.w3schools.com/ (accessed Jan. 10, 2024).
 	</li>
+	<li id="cg-ref-15">
+	 J. Gadge and A. A. Patil, “Port scan detection,” in 2008 16th IEEE International Conference on Networks, 2008. Accessed: Jan. 10, 2024. [Online]. Available: http://dx.doi.org/10.1109/icon.2008.4772622
+	</li>
 </ol>

@@ -16,3 +16,4 @@ Deprovisioning,"In digital identity, deprovisioing refers to act of removing ide
 Content Delivery Network  (CDN),"CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",12,
 Traceroute,Traceroute is a network diagnostic command that print the route packets take to network host,13,
 Structured Query Language (SQL),"It is a standard language for storing, manipulating and retrieving data in databases. Some examples include MySQL, SQL Server, Oracle, Postgres, etc",14,
+Port scanning,"Port scanning is a technique or method that identifies open ports in a system. Once the scanning is completed, the attacker proceeds to carry out attacks and exploits on the system",15,

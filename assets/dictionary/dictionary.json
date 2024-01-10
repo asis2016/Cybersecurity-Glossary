@@ -78,6 +78,12 @@
         "": ""
     },
     {
+        "Term": "Port scanning",
+        "QuickSummary": "Port scanning is a technique or method that identifies open ports in a system. Once the scanning is completed, the attacker proceeds to carry out attacks and exploits on the system",
+        "Ref": "15",
+        "": ""
+    },
+    {
         "Term": "Reverse Proxy",
         "QuickSummary": "A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server",
         "Ref": "2",
