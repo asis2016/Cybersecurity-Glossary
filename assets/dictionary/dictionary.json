@@ -12,7 +12,7 @@
         "": "11"
     },
     {
-        "Term": "Content delivery network  (CDN)",
+        "Term": "Content Delivery Network  (CDN)",
         "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",
         "Ref": "12",
         "": ""
@@ -81,6 +81,12 @@
         "Term": "Reverse Proxy",
         "QuickSummary": "A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server",
         "Ref": "2",
+        "": ""
+    },
+    {
+        "Term": "Structured Query Language (SQL)",
+        "QuickSummary": "It is a standard language for storing, manipulating and retrieving data in databases. Some examples include MySQL, SQL Server, Oracle, Postgres, etc",
+        "Ref": "14",
         "": ""
     },
     {

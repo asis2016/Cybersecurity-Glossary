@@ -52,4 +52,7 @@ Contributions are always welcome! Please contact hello@amaharjan.de.
 	<li id="cg-ref-13">
 	 “FreeBSD Manual Pages.” https://man.freebsd.org/cgi/man.cgi (accessed Jan. 10, 2024).
 	</li>
+	<li id="cg-ref-14">
+	 “W3Schools Online Web Tutorials.” https://www.w3schools.com/ (accessed Jan. 10, 2024).
+	</li>
 </ol>
