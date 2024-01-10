@@ -46,4 +46,7 @@ Contributions are always welcome! Please contact hello@amaharjan.de.
 	<li id="cg-ref-11">
 	 “Clickjacking,” OWASP Foundation. https://owasp.org/www-community/attacks/Clickjacking (accessed Jan. 09, 2024).
 	</li>
+	<li id="cg-ref-12">
+	 A. Vakali and G. Pallis, “Content delivery networks: Status and trends,” IEEE Internet Computing, vol. 7, no. 6, pp. 68–74, Nov. 2003, doi: 10.1109/mic.2003.1250586.
+	</li>
 </ol>
