@@ -4,26 +4,26 @@
 <head>
     <!-- meta -->
     <meta charset="utf-8">
+    <title>Cybersecurity Glossary 2024</title>
+    <link rel="manifest" href="webmanifest.json">
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Cybersecurity glossary, it's terms and summary (2024).">
     <meta name="keywords" content="cybersecurity, PWA, cybersecurity-glossary">
     <meta name="author" content="Ashish S. Maharjan">
-    <meta name="theme-color" content="white"/>
+    
+    <meta name="theme-color" content="white" />
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Cybersecurity Glossary v1">
     <meta name="msapplication-TileImage" content="assets/images/cg-192x192.png">
     <meta name="msapplication-TileColor" content="#FFFFFF">
 
-    <title>Cybersecurity Glossary 2024</title>
-
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="120x120" href="assets/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
-
-    <!-- PWA -->
-    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
 
     <!-- css -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -183,7 +183,19 @@
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/color-modes.js"></script>
     <script src="assets/js/script.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script>
+        window.onload = () => {
+            'use strict';
+
+            if ('serviceWorker' in navigator) {
+                window.addEventListener('load', function () {
+                    navigator.serviceWorker
+                        .register('./serviceWorker.js')
+                        .catch(err => console.log('service worker not registered', err))
+                })
+            }
+        }
+    </script>
     <!-- scripts ends -->
 </body>
 

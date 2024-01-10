@@ -1,11 +1,8 @@
 {
-  "lang": "en-US",
   "name": "Cybersecurity Glossary v1",
   "short_name": "CG",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF",
+  "background_color": "white",
+  "theme_color": "white",
   "description": "Discover the Cybersecurity Glossary for easy explanations of Cybersecurity related tech jargons.",
   "icons": [
     {
@@ -19,5 +16,8 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "lang": "en-US",
+  "start_url": "./index.html",
+  "display": "standalone"
 }
