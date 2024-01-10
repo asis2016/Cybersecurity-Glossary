@@ -7,6 +7,12 @@
             "": ""
         },
         {
+            "Term": "Black hat",
+            "QuickSummary": "\"A computer hacker who violates laws or typical ethical standards for nefarious purposes, such as cybercrime, cyberwarfare or malice\u201d",
+            "Ref": "17",
+            "": ""
+        },
+        {
             "Term": "Clickjacking",
             "QuickSummary": "Click-hijacking",
             "Ref": " tricking someone to click something for malicious purposes",
@@ -16,6 +22,12 @@
             "Term": "Content Delivery Network  (CDN)",
             "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",
             "Ref": "12",
+            "": ""
+        },
+        {
+            "Term": "Content Management System (CMS)",
+            "QuickSummary": "\u201cA content management system (CMS) is computer software used to manage the creation and modification of digital content\"",
+            "Ref": "16",
             "": ""
         },
         {
@@ -52,6 +64,18 @@
             "Term": "Firewall",
             "QuickSummary": "A software that continuously monitors and controls for incoming and outgoing traffic based on security rules",
             "Ref": "1",
+            "": ""
+        },
+        {
+            "Term": "Grey hat",
+            "QuickSummary": "\"A computer hacker or computer security expert who may sometimes violate laws or typical ethical standards, but usually does not have the malicious intent typical of a black hat hacker\u201d",
+            "Ref": "18",
+            "": ""
+        },
+        {
+            "Term": "Hypertext Transfer Protocol Secure (HTTPS)",
+            "QuickSummary": "An extension of HTTP that is used for secure communication",
+            "Ref": "20",
             "": ""
         },
         {
@@ -103,11 +127,29 @@
             "": ""
         },
         {
+            "Term": "Transport Layer Security (TLS)",
+            "QuickSummary": "\"TLS allows client/server applications to communicate over the Internet in a way that is designed to prevent eavesdropping, tampering, and message forgery\u201d",
+            "Ref": "21",
+            "": ""
+        },
+        {
+            "Term": "Uniform Resource Identifier (URI)",
+            "QuickSummary": "\u201cA compact sequence of characters that identifies an abstract or physical resource.\u201d E.g. foo://example.com:8080/path/index.html?query=abc#tag ",
+            "Ref": "",
+            "": ""
+        },
+        {
+            "Term": "White hat",
+            "QuickSummary": "\u201cAn ethical security hacker\u201d, under owner\u2019s constent, he/she helps to find vulnerabilities of the system",
+            "Ref": "19",
+            "": ""
+        },
+        {
             "Term": "Zero-day start",
             "QuickSummary": "\u201cZero-day start\u201d means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",
             "Ref": "3",
             "": ""
         }
     ],
-    "total": 18
+    "total": 25
 }

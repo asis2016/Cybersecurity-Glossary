@@ -1,7 +1,7 @@
 # Cybersecurity Glossary
 Cybersecurity Glossary from A to Z (2024).
 
-"I'm delighted to share a Progressive Web App (PWA) called 'Cybersecurity Glossary.' where I break down Cybersecurity technical terms into simple sentences.
+I'm delighted to share a Progressive Web App (PWA) called 'Cybersecurity Glossary.' where I break down Cybersecurity technical terms into simple sentences.
 
 [Demo](https://asis2016.github.io/Cybersecurity-Glossary/)
 
@@ -57,5 +57,26 @@ Contributions are always welcome! Please contact hello@amaharjan.de.
 	</li>
 	<li id="cg-ref-15">
 	 J. Gadge and A. A. Patil, “Port scan detection,” in 2008 16th IEEE International Conference on Networks, 2008. Accessed: Jan. 10, 2024. [Online]. Available: http://dx.doi.org/10.1109/icon.2008.4772622
+	</li>
+	<li id="cg-ref-16">
+	 Contributors to Wikimedia projects, “Content management system,” Wikipedia, Dec. 22, 2023. https://en.wikipedia.org/wiki/Content_management_system (accessed Jan. 10, 2024).
+	</li>
+	<li id="cg-ref-17">
+	 Contributors to Wikimedia projects, “Black hat (computer security),” Wikipedia, Jan. 09, 2024. https://en.wikipedia.org/wiki/Black_hat_(computer_security) (accessed Jan. 10, 2024).
+	</li>
+	<li id="cg-ref-18">
+	 Contributors to Wikimedia projects, “Grey hat,” Wikipedia, Aug. 04, 2023. https://en.wikipedia.org/wiki/Grey_hat (accessed Jan. 10, 2024)
+	</li>
+	<li id="cg-ref-19">
+	 Contributors to Wikimedia projects, “White hat (computer security),” Wikipedia, Dec. 30, 2023. https://en.wikipedia.org/wiki/White_hat_(computer_security) (accessed Jan. 10, 2024)
+	</li>
+	<li id="cg-ref-20">
+	 https://datatracker.ietf.org/doc/html/rfc2818#section-2
+	</li>
+	<li id="cg-ref-21">
+	 https://datatracker.ietf.org/doc/html/rfc8446
+	</li>
+	<li id="cg-ref-22">
+	 https://datatracker.ietf.org/doc/html/rfc3986
 	</li>
 </ol>
