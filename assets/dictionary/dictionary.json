@@ -1,110 +1,113 @@
-[
-    {
-        "Term": "Access Control List (ACL)",
-        "QuickSummary": " ACL is a list of rules that grants or denies users or systems for a particular resource",
-        "Ref": "",
-        "": ""
-    },
-    {
-        "Term": "Clickjacking",
-        "QuickSummary": "Click-hijacking",
-        "Ref": " tricking someone to click something for malicious purposes",
-        "": "11"
-    },
-    {
-        "Term": "Content Delivery Network  (CDN)",
-        "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",
-        "Ref": "12",
-        "": ""
-    },
-    {
-        "Term": "Cryptography",
-        "QuickSummary": "\u201cThe science of making the cost of discovery of hidden information greater than the value of information itself\u201d",
-        "Ref": "3",
-        "": ""
-    },
-    {
-        "Term": "Deprovisioning",
-        "QuickSummary": "In digital identity, deprovisioing refers to act of removing identities from the system once the \u201cuser\u201d is at the end of their digital identity lifecycle",
-        "Ref": "3",
-        "": ""
-    },
-    {
-        "Term": "Distributed Denial-of-Service (DDoS) Attack",
-        "QuickSummary": "The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted",
-        "Ref": "0",
-        "": ""
-    },
-    {
-        "Term": "Doppelganger domain",
-        "QuickSummary": "A \u201cfake\u201d domain name that looks similar to the real domain",
-        "Ref": " that serves a fake version of the real website",
-        "": "1"
-    },
-    {
-        "Term": "Exploit",
-        "QuickSummary": "A piece of code that takes advantage of vulnerabilities or security flaws",
-        "Ref": "1",
-        "": ""
-    },
-    {
-        "Term": "Firewall",
-        "QuickSummary": "A software that continuously monitors and controls for incoming and outgoing traffic based on security rules",
-        "Ref": "1",
-        "": ""
-    },
-    {
-        "Term": "IDM",
-        "QuickSummary": "Identity and Access Management",
-        "Ref": "",
-        "": ""
-    },
-    {
-        "Term": "Kali Linux",
-        "QuickSummary": "Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools",
-        "Ref": "1",
-        "": ""
-    },
-    {
-        "Term": "Likejacking",
-        "QuickSummary": "A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it",
-        "Ref": "1",
-        "": ""
-    },
-    {
-        "Term": "Metasploit",
-        "QuickSummary": "A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development",
-        "Ref": "",
-        "": ""
-    },
-    {
-        "Term": "Port scanning",
-        "QuickSummary": "Port scanning is a technique or method that identifies open ports in a system. Once the scanning is completed, the attacker proceeds to carry out attacks and exploits on the system",
-        "Ref": "15",
-        "": ""
-    },
-    {
-        "Term": "Reverse Proxy",
-        "QuickSummary": "A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server",
-        "Ref": "2",
-        "": ""
-    },
-    {
-        "Term": "Structured Query Language (SQL)",
-        "QuickSummary": "It is a standard language for storing, manipulating and retrieving data in databases. Some examples include MySQL, SQL Server, Oracle, Postgres, etc",
-        "Ref": "14",
-        "": ""
-    },
-    {
-        "Term": "Traceroute",
-        "QuickSummary": "Traceroute is a network diagnostic command that print the route packets take to network host",
-        "Ref": "13",
-        "": ""
-    },
-    {
-        "Term": "Zero-day start",
-        "QuickSummary": "\u201cZero-day start\u201d means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",
-        "Ref": "3",
-        "": ""
-    }
-]
+{
+    "result": [
+        {
+            "Term": "Access Control List (ACL)",
+            "QuickSummary": " ACL is a list of rules that grants or denies users or systems for a particular resource",
+            "Ref": "",
+            "": ""
+        },
+        {
+            "Term": "Clickjacking",
+            "QuickSummary": "Click-hijacking",
+            "Ref": " tricking someone to click something for malicious purposes",
+            "": "11"
+        },
+        {
+            "Term": "Content Delivery Network  (CDN)",
+            "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",
+            "Ref": "12",
+            "": ""
+        },
+        {
+            "Term": "Cryptography",
+            "QuickSummary": "\u201cThe science of making the cost of discovery of hidden information greater than the value of information itself\u201d",
+            "Ref": "3",
+            "": ""
+        },
+        {
+            "Term": "Deprovisioning",
+            "QuickSummary": "In digital identity, deprovisioing refers to act of removing identities from the system once the \u201cuser\u201d is at the end of their digital identity lifecycle",
+            "Ref": "3",
+            "": ""
+        },
+        {
+            "Term": "Distributed Denial-of-Service (DDoS) Attack",
+            "QuickSummary": "The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted",
+            "Ref": "0",
+            "": ""
+        },
+        {
+            "Term": "Doppelganger domain",
+            "QuickSummary": "A \u201cfake\u201d domain name that looks similar to the real domain",
+            "Ref": " that serves a fake version of the real website",
+            "": "1"
+        },
+        {
+            "Term": "Exploit",
+            "QuickSummary": "A piece of code that takes advantage of vulnerabilities or security flaws",
+            "Ref": "1",
+            "": ""
+        },
+        {
+            "Term": "Firewall",
+            "QuickSummary": "A software that continuously monitors and controls for incoming and outgoing traffic based on security rules",
+            "Ref": "1",
+            "": ""
+        },
+        {
+            "Term": "IDM",
+            "QuickSummary": "Identity and Access Management",
+            "Ref": "",
+            "": ""
+        },
+        {
+            "Term": "Kali Linux",
+            "QuickSummary": "Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools",
+            "Ref": "1",
+            "": ""
+        },
+        {
+            "Term": "Likejacking",
+            "QuickSummary": "A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it",
+            "Ref": "1",
+            "": ""
+        },
+        {
+            "Term": "Metasploit",
+            "QuickSummary": "A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development",
+            "Ref": "",
+            "": ""
+        },
+        {
+            "Term": "Port scanning",
+            "QuickSummary": "Port scanning is a technique or method that identifies open ports in a system. Once the scanning is completed, the attacker proceeds to carry out attacks and exploits on the system",
+            "Ref": "15",
+            "": ""
+        },
+        {
+            "Term": "Reverse Proxy",
+            "QuickSummary": "A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server",
+            "Ref": "2",
+            "": ""
+        },
+        {
+            "Term": "Structured Query Language (SQL)",
+            "QuickSummary": "It is a standard language for storing, manipulating and retrieving data in databases. Some examples include MySQL, SQL Server, Oracle, Postgres, etc",
+            "Ref": "14",
+            "": ""
+        },
+        {
+            "Term": "Traceroute",
+            "QuickSummary": "Traceroute is a network diagnostic command that print the route packets take to network host",
+            "Ref": "13",
+            "": ""
+        },
+        {
+            "Term": "Zero-day start",
+            "QuickSummary": "\u201cZero-day start\u201d means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",
+            "Ref": "3",
+            "": ""
+        }
+    ],
+    "total": 18
+}

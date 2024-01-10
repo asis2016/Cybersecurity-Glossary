@@ -14,7 +14,8 @@ const main = () => {
             }
         })
         .then(data => {
-            accordionContainer(data)
+            accordionContainer(data['result']);
+            document.getElementById('totalResults').innerText = data['total'] + " results.";
         })
         .catch(error => {
             console.error('Error fetching JSON:', error)
