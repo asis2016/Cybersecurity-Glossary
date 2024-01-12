@@ -79,4 +79,19 @@ Contributions are always welcome! Please contact hello@amaharjan.de.
 	<li id="cg-ref-22">
 	 https://datatracker.ietf.org/doc/html/rfc3986
 	</li>
+	<li id="cg-ref-23">
+	 B. Lutkevich, “remote code execution (RCE),” TechTarget, Feb. 24, 2023. Accessed: Jan. 12, 2024. [Online]. Available: https://www.techtarget.com/searchwindowsserver/definition/remote-code-execution-RCE
+	</li>
+	<li id="cg-ref-24">
+	 W. S. Vincent, Django for APIs: Build web APIs with Python and Django. WelcomeToCode, 2022.
+	</li>
+	<li id="cg-ref-25">
+	 Contributors to Wikimedia projects, “Red team,” Wikipedia, Oct. 04, 2023. https://en.wikipedia.org/wiki/Red_team (accessed Jan. 12, 2024). 
+	</li>
+	<li id="cg-ref-26">
+	 B. Lutkevich and B. Posey, “backdoor (computing),” TechTarget, Jan. 24, 2023. Accessed: Jan. 12, 2024. [Online]. Available: https://www.techtarget.com/searchsecurity/definition/back-door
+	</li>
+	<li id="cg-ref-27">
+	 L. Rosencrance and C. Mathias, “identity management (ID management),” TechTarget, Sep. 29, 2021. Accessed: Jan. 12, 2024. [Online]. Available: https://www.techtarget.com/searchsecurity/definition/identity-management-ID-management
+	</li>
 </ol>
