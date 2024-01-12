@@ -31,4 +31,4 @@ Application Programming Interface (API),API is a formal way to describe two diff
 Ransomeware as a Service (RaaS),A subscription-based cybercrime business model that enables affiliates to launch attacks without necessarily knowing the technical skills of the tools,0
 Red Team,"“A red team is a group that pretends to be an enemy, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses”",25
 Backdoor,A backdoor attack lets an attacker bypass normal security measures and access a computer system,26
-Airgap,A system that one no network connection at all,0
+Airgap,A system that has no network connection at all,0

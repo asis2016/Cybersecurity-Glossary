@@ -7,7 +7,7 @@
         },
         {
             "Term": "Airgap",
-            "QuickSummary": "A system that one no network connection at all",
+            "QuickSummary": "A system that has no network connection at all",
             "Ref": "0"
         },
         {
