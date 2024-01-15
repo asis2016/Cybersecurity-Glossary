@@ -13,4 +13,4 @@ Contributions are always welcome! Please contact hello@amaharjan.de.
 
 ## Bibliography
 
-All references to the work is included in the [bibliography.html](bibliography.html).
+All references to the work is included in the [bibliography.html](https://asis2016.github.io/Cybersecurity-Glossary/bibliography.html).
