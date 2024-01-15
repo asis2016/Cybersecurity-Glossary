@@ -111,6 +111,16 @@
             "Ref": "15"
         },
         {
+            "Term": "Privilege Escalation",
+            "QuickSummary": "Privilege escalation is divided into two categories (1) vertical escalation, where attacker gets access to an account with broader permissions. (2) Horizontal escalation, where attacker accesses other account with similar privileges",
+            "Ref": ""
+        },
+        {
+            "Term": "Progressive Web App (PWA)",
+            "QuickSummary": "A Progressive Web App (PWA) is built on web technology, providing users with experience similar to native apps",
+            "Ref": ""
+        },
+        {
             "Term": "Ransomeware as a Service (RaaS)",
             "QuickSummary": "A subscription-based cybercrime business model that enables affiliates to launch attacks without necessarily knowing the technical skills of the tools",
             "Ref": "0"
@@ -161,10 +171,15 @@
             "Ref": "19"
         },
         {
+            "Term": "XML Bombs",
+            "QuickSummary": "An XML bomb uses an inline DTD to overload an XML parser (typically HTTP server)",
+            "Ref": ""
+        },
+        {
             "Term": "Zero-day start",
             "QuickSummary": "\u201cZero-day start\u201d means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",
             "Ref": "3"
         }
     ],
-    "total": 33
+    "total": 36
 }

@@ -32,3 +32,6 @@ Ransomeware as a Service (RaaS),A subscription-based cybercrime business model t
 Red Team,"“A red team is a group that pretends to be an enemy, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses”",25
 Backdoor,A backdoor attack lets an attacker bypass normal security measures and access a computer system,26
 Airgap,A system that has no network connection at all,0
+Progressive Web App (PWA),"A Progressive Web App (PWA) is built on web technology, providing users with experience similar to native apps",
+Privilege Escalation,"Privilege escalation is divided into two categories (1) vertical escalation, where attacker gets access to an account with broader permissions. (2) Horizontal escalation, where attacker accesses other account with similar privileges",
+XML Bombs,An XML bomb uses an inline DTD to overload an XML parser (typically HTTP server),
