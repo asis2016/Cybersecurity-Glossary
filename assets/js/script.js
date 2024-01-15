@@ -51,10 +51,7 @@ const accordionContainer = (data) => {
                         </span>-->
                         <p>
                             <span>
-                            ${item['QuickSummary']}
-                            </span>
-                            <span>
-                            &nbsp;<a href="https://github.com/asis2016/Cybersecurity-Glossary#cg-ref-${item['Ref']}" class="link-offset-2">(ref.)</a>.
+                            ${item['QuickSummary']}.
                             </span>
                         </p>
                     </div>
