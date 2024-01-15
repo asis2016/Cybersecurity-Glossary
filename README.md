@@ -3,7 +3,7 @@ Cybersecurity Glossary from A to Z (2024).
 
 I'm delighted to share a Progressive Web App (PWA) called 'Cybersecurity Glossary.' where I break down Cybersecurity technical terms into simple sentences.
 
-[Demo](https://asis2016.github.io/Cybersecurity-Glossary/)
+[Live](https://asis2016.github.io/Cybersecurity-Glossary/)
 
 ## Contributing
 Contributions are always welcome! Please contact hello@amaharjan.de.
