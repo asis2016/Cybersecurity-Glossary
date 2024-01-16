@@ -1,14 +1,14 @@
-Term,QuickSummary,Ref
+Term,QuickSummary,Citation
 IDM,Identity management is the organizational process of making sure that the individuals have the appropriate access to digital resources,27
 Access Control List (ACL), ACL is a list of rules that grants or denies users or systems for a particular resource,0
 Exploit,A piece of code that takes advantage of vulnerabilities or security flaws,1
 Kali Linux,Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools,1
 Metasploit,A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development,0
-Reverse Proxy,A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server,2
+Reverse Proxy,A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server,"(Maharjan, 2022)"
 Distributed Denial-of-Service (DDoS) Attack,The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted,0
 Firewall,A software that continuously monitors and controls for incoming and outgoing traffic based on security rules,1
 Likejacking,A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it,1
-Clickjacking,Tricking someone to click something for malicious purposes,11
+Clickjacking,Tricking someone to click something for malicious purposes,"(Clickjacking | OWASP Foundation, n.d.)"
 Doppelganger domain,A “fake” domain name that looks similar to the real domain that serves a fake version of the real website ,1
 Cryptography,“The science of making the cost of discovery of hidden information greater than the value of information itself”,3
 Zero-day start,"“Zero-day start” means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately",3
@@ -21,17 +21,22 @@ Content Management System (CMS),"“A content management system (CMS) is compute
 Hypertext Transfer Protocol Secure (HTTPS),An extension of HTTP that is used for secure communication,20
 Transport Layer Security (TLS),"""TLS allows client/server applications to communicate over the Internet in a way that is designed to prevent eavesdropping, tampering, and message forgery”",21
 Uniform Resource Identifier (URI),“A compact sequence of characters that identifies an abstract or physical resource.” E.g. foo://example.com:8080/path/index.html?query=abc#tag ,22
-Black hat,"""A computer hacker who violates laws or typical ethical standards for nefarious purposes, such as cybercrime, cyberwarfare or malice”",17
-Grey hat,"""A computer hacker or computer security expert who may sometimes violate laws or typical ethical standards, but usually does not have the malicious intent typical of a black hat hacker”",18
-White hat,"“An ethical security hacker”, under owner’s constent, he/she helps to find vulnerabilities of the system",19
+Black hat,"""A computer hacker who violates laws or typical ethical standards for nefarious purposes, such as cybercrime, cyberwarfare or malice”","(“Black Hat (Computer Security),” 2024)"
+Grey hat,"""A computer hacker or computer security expert who may sometimes violate laws or typical ethical standards, but usually does not have the malicious intent typical of a black hat hacker”","(“Grey Hat,” 2023)"
+White hat,"“An ethical security hacker”, under owner’s constent, he/she helps to find vulnerabilities of the system","(“White Hat (Computer Security),” 2023)"
 Remote Code Execution (RCE),RCE is where attacker executes malicious code on a target’s computing device. Two of the well-known RCE attacks are the WannaCry ransomware exploit and the Log4j exploit,23
 Remote Desktop Protocol (RDP),RDP is a secure network communication protocol offered by Microsoft which allows users to perform remote operations on the another computer,0
 Digital Certificate,It is an electronic document that proves the ownership of public encryption key. Aka public-key certificate,1
 Application Programming Interface (API),API is a formal way to describe two different computers communicating directly with one another,24
 Ransomeware as a Service (RaaS),A subscription-based cybercrime business model that enables affiliates to launch attacks without necessarily knowing the technical skills of the tools,0
 Red Team,"“A red team is a group that pretends to be an enemy, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses”",25
-Backdoor,A backdoor attack lets an attacker bypass normal security measures and access a computer system,26
+Backdoor,A backdoor attack lets an attacker bypass normal security measures and access a computer system,"(What Is a Backdoor Attack?, n.d.)"
 Airgap,A system that has no network connection at all,0
 Progressive Web App (PWA),"A Progressive Web App (PWA) is built on web technology, providing users with experience similar to native apps",
 Privilege Escalation,"Privilege escalation is divided into two categories (1) vertical escalation, where attacker gets access to an account with broader permissions. (2) Horizontal escalation, where attacker accesses other account with similar privileges",
-XML Bombs,An XML bomb uses an inline DTD to overload an XML parser (typically HTTP server),
+XML Bombs,An XML bomb uses an inline DTD to overload an XML parser (typically HTTP server),"(XML Bomb Security Testing | SoapUI, n.d.)"
+Apache Tomcat,A popular open source web server and Servlet container for Java code,"(What Is Apache Tomcat? | JRebel by Perforce, n.d.)"
+Secure Shell (SSH),The Secure Shell (SSH) Protocol is a protocol for secure remote login and other secure network services over an insecure network,"(Lonvick & Ylonen, 2006)"
+Graph,A graph models a set of connection that shows how different things are connected to one another. It is made up of nodes and edges,"(Bhargava, 2016)"
+Big O notation,Big O notation is a special kind of notation that tells how fast an algorithm is,"(Bhargava, 2016)"
+Breadth-first search (BFS),The algorithm to solve a shortest-path problem is called BFS,"(Bhargava, 2016)"
