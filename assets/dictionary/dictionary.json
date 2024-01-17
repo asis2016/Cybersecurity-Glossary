@@ -61,6 +61,11 @@
             "Citation": ""
         },
         {
+            "Term": "Cross-site scripting (XSS)",
+            "QuickSummary": "XSS is an attack to the webpages where malicious actor injects small bits of code (for e.g., JavaScript) victimizes other users. \"XSS can cause a variety of problems for the end user, ranging in severity from annoyance to complete account compromise\"",
+            "Citation": "(Cross Site Scripting (XSS) | OWASP Foundation, n.d.; Vincent, 2022)"
+        },
+        {
             "Term": "Cryptography",
             "QuickSummary": "\u201cThe science of making the cost of discovery of hidden information greater than the value of information itself\u201d",
             "Citation": "(Andress, 2019)"
@@ -106,6 +111,11 @@
             "Citation": "(\u201cGrey Hat,\u201d 2023)"
         },
         {
+            "Term": "HTTP Strict Transport Security (HSTS)",
+            "QuickSummary": "HSTS is a security policy that allows server to enforce that web browsers should only interact via HTTPS by adding a Strict-Transport-Security header",
+            "Citation": "(Vincent, 2022)"
+        },
+        {
             "Term": "Hypertext Transfer Protocol Secure (HTTPS)",
             "QuickSummary": "An extension of HTTP that is used for secure communication",
             "Citation": ""
@@ -114,6 +124,11 @@
             "Term": "IDM",
             "QuickSummary": "Identity management is the organizational process of making sure that the individuals have the appropriate access to digital resources",
             "Citation": "(What Is Identity Management (ID Management)?, n.d.)"
+        },
+        {
+            "Term": "Information Security",
+            "QuickSummary": "\"The term information security means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide integrity, confidentiality, and availability\"",
+            "Citation": "(U.S.C. Title 44 - PUBLIC PRINTING AND DOCUMENTS, n.d.)"
         },
         {
             "Term": "Kali Linux",
@@ -129,6 +144,16 @@
             "Term": "Metasploit",
             "QuickSummary": "A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development",
             "Citation": "(Metasploit | Penetration Testing Software, Pen Testing Security, n.d.)"
+        },
+        {
+            "Term": "Payment Card Industry Data Security Standard (PCI DSS)",
+            "QuickSummary": "The PCI Security Standards Council (PCI SSC) is an organization that establishes data security standards for handling secure payments worldwide",
+            "Citation": "(Official PCI Security Standards Council Site, n.d.)"
+        },
+        {
+            "Term": "Penetration Testing",
+            "QuickSummary": "Also known as pentesting or ethical hacking, the primary goal of this testing is to identify vulnerabilities in a system so that you can address them before attackers exploit the system",
+            "Citation": "(Andress, 2019)"
         },
         {
             "Term": "Port scanning",
@@ -171,9 +196,19 @@
             "Citation": "(Maharjan, 2022)"
         },
         {
+            "Term": "SQL Injection",
+            "QuickSummary": "SQL injection attack occurs when a malicious user can execute arbitrary SQL code on a database",
+            "Citation": "(Vincent, 2022)"
+        },
+        {
             "Term": "Secure Shell (SSH)",
             "QuickSummary": "The Secure Shell (SSH) Protocol is a protocol for secure remote login and other secure network services over an insecure network",
             "Citation": "(Lonvick & Ylonen, 2006)"
+        },
+        {
+            "Term": "Social Engineering",
+            "QuickSummary": "The term \"social engineering\" refers to the technique of identifying individuals with access to a system who will willingly or unwillingly share their login credentials with a malicious actor",
+            "Citation": "(Vincent, 2022)"
         },
         {
             "Term": "Structured Query Language (SQL)",
@@ -196,6 +231,11 @@
             "Citation": "(Berners-Lee et al., 2005)"
         },
         {
+            "Term": "Vulnerability Assessment",
+            "QuickSummary": "Vulnerability Assessment is a process that utilizes specially designed tools such as Qualys and Nessus to scan for vulnerabilities in the system",
+            "Citation": "(Andress, 2019)"
+        },
+        {
             "Term": "White hat",
             "QuickSummary": "\u201cAn ethical security hacker\u201d, under owner\u2019s constent, he/she helps to find vulnerabilities of the system",
             "Citation": "(\u201cWhite Hat (Computer Security),\u201d 2023)"
@@ -211,5 +251,5 @@
             "Citation": "(Windley, 2005)"
         }
     ],
-    "total": 42
+    "total": 50
 }
