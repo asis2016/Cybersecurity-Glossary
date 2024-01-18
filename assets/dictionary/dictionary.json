@@ -51,6 +51,11 @@
             "Citation": "(Clickjacking | OWASP Foundation, n.d.)"
         },
         {
+            "Term": "Command injection",
+            "QuickSummary": "Command injection is a type of injection attack where hackers exploit a website that makes insecure command-line calls to the underlying operating system",
+            "Citation": "(McDonald, 2020)"
+        },
+        {
             "Term": "Content Delivery Network  (CDN)",
             "QuickSummary": "CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data",
             "Citation": "(Vakali & Pallis, 2003)"
@@ -86,9 +91,19 @@
             "Citation": ""
         },
         {
+            "Term": "Docker",
+            "QuickSummary": "\"Docker is a way to isolate an entire operating system via Linux containers which are a type of virtualization\"",
+            "Citation": "(Vincent, 2022)"
+        },
+        {
             "Term": "Doppelganger domain",
             "QuickSummary": "A \u201cfake\u201d domain name that looks similar to the real domain that serves a fake version of the real website ",
             "Citation": ""
+        },
+        {
+            "Term": "Endpoints",
+            "QuickSummary": "A web API consists of endpoints, which are URLs with a set of HTTP verbs (i.e., \"actions\") exposing data usually in JSON format",
+            "Citation": "(Vincent, 2022)"
         },
         {
             "Term": "Exploit",
@@ -131,9 +146,19 @@
             "Citation": "(U.S.C. Title 44 - PUBLIC PRINTING AND DOCUMENTS, n.d.)"
         },
         {
+            "Term": "JSON Web Token (JWT)",
+            "QuickSummary": "A widely accepted standard, JSON Web Token (JWT), is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. JWT is commonly employed in scenarios involving authorization and information exchange",
+            "Citation": "(auth0.com, n.d.)"
+        },
+        {
             "Term": "Kali Linux",
             "QuickSummary": "Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools",
             "Citation": ""
+        },
+        {
+            "Term": "Lightweight Directory Access Protocol (LDAP)",
+            "QuickSummary": "The Lightweight Directory Access Protocol (LDAP) is a widely used protocol that offers directory services, such as phone books, addresses, and user accounts. It is versatile and capable of storing a diverse range of information",
+            "Citation": "(Kirch & Dawson, 2000; Negus & Bresnahan, 2012)"
         },
         {
             "Term": "Likejacking",
@@ -251,5 +276,5 @@
             "Citation": "(Windley, 2005)"
         }
     ],
-    "total": 50
+    "total": 55
 }
