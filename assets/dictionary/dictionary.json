@@ -241,6 +241,16 @@
             "Citation": "(W3Schools Online Web Tutorials, n.d.)"
         },
         {
+            "Term": "Swagger",
+            "QuickSummary": "Swagger is an open-source toolset for designing, building, documenting, and consuming RESTful web services",
+            "Citation": ""
+        },
+        {
+            "Term": "System for Cross-domain Identity Management (SCIM)",
+            "QuickSummary": "System for Cross-domain Identity Management (SCIM), is an HTTP-based protocol; designed to manage user identities in multi-domain scenarios",
+            "Citation": "(Hunt et al., 2015)"
+        },
+        {
             "Term": "Traceroute",
             "QuickSummary": "Traceroute is a network diagnostic command that print the route packets take to network host",
             "Citation": ""
@@ -276,5 +286,5 @@
             "Citation": "(Windley, 2005)"
         }
     ],
-    "total": 55
+    "total": 57
 }

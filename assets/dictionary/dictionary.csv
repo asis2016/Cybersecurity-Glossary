@@ -54,3 +54,5 @@ JSON Web Token (JWT),"A widely accepted standard, JSON Web Token (JWT), is an op
 Endpoints,"A web API consists of endpoints, which are URLs with a set of HTTP verbs (i.e., ""actions"") exposing data usually in JSON format","(Vincent, 2022)"
 Docker,"""Docker is a way to isolate an entire operating system via Linux containers which are a type of virtualization""","(Vincent, 2022)"
 Command injection,Command injection is a type of injection attack where hackers exploit a website that makes insecure command-line calls to the underlying operating system,"(McDonald, 2020)"
+Swagger,"Swagger is an open-source toolset for designing, building, documenting, and consuming RESTful web services",
+System for Cross-domain Identity Management (SCIM),"System for Cross-domain Identity Management (SCIM), is an HTTP-based protocol; designed to manage user identities in multi-domain scenarios","(Hunt et al., 2015)"
