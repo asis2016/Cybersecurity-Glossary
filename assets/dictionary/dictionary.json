@@ -81,6 +81,11 @@
             "Citation": ""
         },
         {
+            "Term": "DevSecOps",
+            "QuickSummary": "DevSecOps stands for development, security, and operations. The practice that integrates security throughout the entire IT lifecycle",
+            "Citation": "(What Is DevSecOps?, 2013)"
+        },
+        {
             "Term": "Digital Certificate",
             "QuickSummary": "It is an electronic document that proves the ownership of public encryption key. Aka public-key certificate",
             "Citation": ""
@@ -301,5 +306,5 @@
             "Citation": "(Windley, 2005)"
         }
     ],
-    "total": 60
+    "total": 61
 }
