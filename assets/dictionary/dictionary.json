@@ -156,6 +156,11 @@
             "Citation": ""
         },
         {
+            "Term": "Kerberos",
+            "QuickSummary": "Kerberos is a network authentication protocol that provides a means of verifying the \"users\" on an open-unprotected network",
+            "Citation": "(Neuman et al., 2005)"
+        },
+        {
             "Term": "Lightweight Directory Access Protocol (LDAP)",
             "QuickSummary": "The Lightweight Directory Access Protocol (LDAP) is a widely used protocol that offers directory services, such as phone books, addresses, and user accounts. It is versatile and capable of storing a diverse range of information",
             "Citation": "(Kirch & Dawson, 2000; Negus & Bresnahan, 2012)"
@@ -261,9 +266,19 @@
             "Citation": "(Rescorla, 2018)"
         },
         {
+            "Term": "Trojan horse",
+            "QuickSummary": "Trojan horse is a malware disguised as a real program while concealing malicious functionality",
+            "Citation": ""
+        },
+        {
             "Term": "Uniform Resource Identifier (URI)",
             "QuickSummary": "\u201cA compact sequence of characters that identifies an abstract or physical resource.\u201d E.g. foo://example.com:8080/path/index.html?query=abc#tag ",
             "Citation": "(Berners-Lee et al., 2005)"
+        },
+        {
+            "Term": "Virus",
+            "QuickSummary": "A computer virus is a malware that that outspread between computers and damages data or software",
+            "Citation": "(What Are Computer Viruses?, n.d.)"
         },
         {
             "Term": "Vulnerability Assessment",
@@ -286,5 +301,5 @@
             "Citation": "(Windley, 2005)"
         }
     ],
-    "total": 57
+    "total": 60
 }

@@ -56,3 +56,6 @@ Docker,"""Docker is a way to isolate an entire operating system via Linux contai
 Command injection,Command injection is a type of injection attack where hackers exploit a website that makes insecure command-line calls to the underlying operating system,"(McDonald, 2020)"
 Swagger,"Swagger is an open-source toolset for designing, building, documenting, and consuming RESTful web services",
 System for Cross-domain Identity Management (SCIM),"System for Cross-domain Identity Management (SCIM), is an HTTP-based protocol; designed to manage user identities in multi-domain scenarios","(Hunt et al., 2015)"
+Virus,A computer virus is a malware that that outspread between computers and damages data or software,"(What Are Computer Viruses?, n.d.)"
+Trojan horse,Trojan horse is a malware disguised as a real program while concealing malicious functionality,
+Kerberos,"Kerberos is a network authentication protocol that provides a means of verifying the ""users"" on an open-unprotected network","(Neuman et al., 2005)"
