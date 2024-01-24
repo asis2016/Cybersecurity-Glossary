@@ -60,3 +60,10 @@ Virus,A computer virus is a malware that that outspread between computers and da
 Trojan horse,Trojan horse is a malware disguised as a real program while concealing malicious functionality,
 Kerberos,"Kerberos is a network authentication protocol that provides a means of verifying the ""users"" on an open-unprotected network","(Neuman et al., 2005)"
 DevSecOps,"DevSecOps stands for development, security, and operations. The practice that integrates security throughout the entire IT lifecycle","(What Is DevSecOps?, 2013)"
+CIA Triad,"Three primary concepts in Information Security are common called CIA (Confidentiality, Integrity, and Availability) triad","(Andress, 2019)"
+The Parkerian Hexad,"More complex variation of CIA triad that contains Integrity, Authenticity, Utility, Possession, Availability, and Confidentiality","(Andress, 2019)"
+Fabrication attack,The fabrication attacks involve generating fake information that affects integrity,"(Andress, 2019)"
+Threats,Threats in Cybersecurity means something that has the potential to cause harm,"(Andress, 2019)"
+Mitigate Risks,"Mitigating risks involves implementing measures to address threats. These measures, referred to as controls, are categorized into three types: physical, logical, and administrative","(Andress, 2019)"
+Defense in depth,"It is a strategy common on both military and information domain. It consists of multilayered defense measures i.e., Data, Application, Host, Internal network, External network. This approach ensures that you can still effectively resist a threat even if one or more of your defensive measures fail","(Andress, 2019)"
+The DMZ (Demilitarized Zone),"The DMZ (Demilitarized Zone) is a network area designated for internet services such as Email servers, FTP servers, or Web servers accessible to the public. Usually positioned between the public (internet) and protected zones (private network). If the web server in the DMZ is compromised, the impact is limited to what's within the DMZ, preventing the hacker from affecting the internal LAN (Local Area Network)","(Simple Security, 2015)"

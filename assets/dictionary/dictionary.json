@@ -46,6 +46,11 @@
             "Citation": "(Bhargava, 2016)"
         },
         {
+            "Term": "CIA Triad",
+            "QuickSummary": "Three primary concepts in Information Security are common called CIA (Confidentiality, Integrity, and Availability) triad",
+            "Citation": "(Andress, 2019)"
+        },
+        {
             "Term": "Clickjacking",
             "QuickSummary": "Tricking someone to click something for malicious purposes",
             "Citation": "(Clickjacking | OWASP Foundation, n.d.)"
@@ -73,6 +78,11 @@
         {
             "Term": "Cryptography",
             "QuickSummary": "\u201cThe science of making the cost of discovery of hidden information greater than the value of information itself\u201d",
+            "Citation": "(Andress, 2019)"
+        },
+        {
+            "Term": "Defense in depth",
+            "QuickSummary": "It is a strategy common on both military and information domain. It consists of multilayered defense measures i.e., Data, Application, Host, Internal network, External network. This approach ensures that you can still effectively resist a threat even if one or more of your defensive measures fail",
             "Citation": "(Andress, 2019)"
         },
         {
@@ -113,6 +123,11 @@
         {
             "Term": "Exploit",
             "QuickSummary": "A piece of code that takes advantage of vulnerabilities or security flaws",
+            "Citation": "(Andress, 2019)"
+        },
+        {
+            "Term": "Fabrication attack",
+            "QuickSummary": "The fabrication attacks involve generating fake information that affects integrity",
             "Citation": "(Andress, 2019)"
         },
         {
@@ -179,6 +194,11 @@
             "Term": "Metasploit",
             "QuickSummary": "A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development",
             "Citation": "(Metasploit | Penetration Testing Software, Pen Testing Security, n.d.)"
+        },
+        {
+            "Term": "Mitigate Risks",
+            "QuickSummary": "Mitigating risks involves implementing measures to address threats. These measures, referred to as controls, are categorized into three types: physical, logical, and administrative",
+            "Citation": "(Andress, 2019)"
         },
         {
             "Term": "Payment Card Industry Data Security Standard (PCI DSS)",
@@ -261,6 +281,21 @@
             "Citation": "(Hunt et al., 2015)"
         },
         {
+            "Term": "The DMZ (Demilitarized Zone)",
+            "QuickSummary": "The DMZ (Demilitarized Zone) is a network area designated for internet services such as Email servers, FTP servers, or Web servers accessible to the public. Usually positioned between the public (internet) and protected zones (private network). If the web server in the DMZ is compromised, the impact is limited to what's within the DMZ, preventing the hacker from affecting the internal LAN (Local Area Network)",
+            "Citation": "(Simple Security, 2015)"
+        },
+        {
+            "Term": "The Parkerian Hexad",
+            "QuickSummary": "More complex variation of CIA triad that contains Integrity, Authenticity, Utility, Possession, Availability, and Confidentiality",
+            "Citation": "(Andress, 2019)"
+        },
+        {
+            "Term": "Threats",
+            "QuickSummary": "Threats in Cybersecurity means something that has the potential to cause harm",
+            "Citation": "(Andress, 2019)"
+        },
+        {
             "Term": "Traceroute",
             "QuickSummary": "Traceroute is a network diagnostic command that print the route packets take to network host",
             "Citation": ""
@@ -306,5 +341,5 @@
             "Citation": "(Windley, 2005)"
         }
     ],
-    "total": 61
+    "total": 68
 }
