@@ -1,69 +1,76 @@
-Term,QuickSummary,Citation
-IDM,Identity management is the organizational process of making sure that the individuals have the appropriate access to digital resources,"(What Is Identity Management (ID Management)?, n.d.)"
-Access Control List (ACL), ACL is a list of rules that grants or denies users or systems for a particular resource,
-Exploit,A piece of code that takes advantage of vulnerabilities or security flaws,"(Andress, 2019)"
-Kali Linux,Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools,
-Metasploit,A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development,"(Metasploit | Penetration Testing Software, Pen Testing Security, n.d.)"
-Reverse Proxy,A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server,"(Maharjan, 2022)"
-Distributed Denial-of-Service (DDoS) Attack,The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted,
-Firewall,A software that continuously monitors and controls for incoming and outgoing traffic based on security rules,
-Likejacking,A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it,
-Clickjacking,Tricking someone to click something for malicious purposes,"(Clickjacking | OWASP Foundation, n.d.)"
-Doppelganger domain,A “fake” domain name that looks similar to the real domain that serves a fake version of the real website ,
-Cryptography,“The science of making the cost of discovery of hidden information greater than the value of information itself”,"(Andress, 2019)"
-Zero-day start,"“Zero-day start” means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately","(Windley, 2005)"
-Deprovisioning,"In digital identity, deprovisioing refers to act of removing identities from the system once the “user” is at the end of their digital identity lifecycle",
-Content Delivery Network  (CDN),"CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data","(Vakali & Pallis, 2003)"
-Traceroute,Traceroute is a network diagnostic command that print the route packets take to network host,
-Structured Query Language (SQL),"It is a standard language for storing, manipulating and retrieving data in databases. Some examples include MySQL, SQL Server, Oracle, Postgres, etc","(W3Schools Online Web Tutorials, n.d.)"
-Port scanning,"Port scanning is a technique or method that identifies open ports in a system. Once the scanning is completed, the attacker proceeds to carry out attacks and exploits on the system","(Gadge & Patil, 2008)"
-Content Management System (CMS),"“A content management system (CMS) is computer software used to manage the creation and modification of digital content""",
-Hypertext Transfer Protocol Secure (HTTPS),An extension of HTTP that is used for secure communication,
-Transport Layer Security (TLS),"""TLS allows client/server applications to communicate over the Internet in a way that is designed to prevent eavesdropping, tampering, and message forgery”","(Rescorla, 2018)"
-Uniform Resource Identifier (URI),“A compact sequence of characters that identifies an abstract or physical resource.” E.g. foo://example.com:8080/path/index.html?query=abc#tag ,"(Berners-Lee et al., 2005)"
-Black hat,"""A computer hacker who violates laws or typical ethical standards for nefarious purposes, such as cybercrime, cyberwarfare or malice”","(“Black Hat (Computer Security),” 2024)"
-Grey hat,"""A computer hacker or computer security expert who may sometimes violate laws or typical ethical standards, but usually does not have the malicious intent typical of a black hat hacker”","(“Grey Hat,” 2023)"
-White hat,"“An ethical security hacker”, under owner’s constent, he/she helps to find vulnerabilities of the system","(“White Hat (Computer Security),” 2023)"
-Remote Code Execution (RCE),RCE is where attacker executes malicious code on a target’s computing device. Two of the well-known RCE attacks are the WannaCry ransomware exploit and the Log4j exploit,"(What Is Remote Code Execution (RCE)?, n.d.)"
-Remote Desktop Protocol (RDP),RDP is a secure network communication protocol offered by Microsoft which allows users to perform remote operations on the another computer,
-Digital Certificate,It is an electronic document that proves the ownership of public encryption key. Aka public-key certificate,
-Application Programming Interface (API),API is a formal way to describe two different computers communicating directly with one another,
-Ransomeware as a Service (RaaS),A subscription-based cybercrime business model that enables affiliates to launch attacks without necessarily knowing the technical skills of the tools,
-Red Team,"“A red team is a group that pretends to be an enemy, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses”",
-Backdoor,A backdoor attack lets an attacker bypass normal security measures and access a computer system,"(What Is a Backdoor Attack?, n.d.)"
-Airgap,A system that has no network connection at all,
-Progressive Web App (PWA),"A Progressive Web App (PWA) is built on web technology, providing users with experience similar to native apps","(Progressive Web Apps | MDN, 2023)"
-Privilege Escalation,"Privilege escalation is divided into two categories (1) vertical escalation, where attacker gets access to an account with broader permissions. (2) Horizontal escalation, where attacker accesses other account with similar privileges",
-XML Bombs,An XML bomb uses an inline DTD to overload an XML parser (typically HTTP server),"(XML Bomb Security Testing | SoapUI, n.d.)"
-Apache Tomcat,A popular open source web server and Servlet container for Java code,"(What Is Apache Tomcat? | JRebel by Perforce, n.d.)"
-Secure Shell (SSH),The Secure Shell (SSH) Protocol is a protocol for secure remote login and other secure network services over an insecure network,"(Lonvick & Ylonen, 2006)"
-Graph,A graph models a set of connection that shows how different things are connected to one another. It is made up of nodes and edges,"(Bhargava, 2016)"
-Big O notation,Big O notation is a special kind of notation that tells how fast an algorithm is,"(Bhargava, 2016)"
-Breadth-first search (BFS),The algorithm to solve a shortest-path problem is called BFS,"(Bhargava, 2016)"
-Bitcoin (BTC),"Bitcoin is a digital currency, “A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution""","(Nakamoto, 2009)"
-Social Engineering,"The term ""social engineering"" refers to the technique of identifying individuals with access to a system who will willingly or unwillingly share their login credentials with a malicious actor","(Vincent, 2022)"
-SQL Injection,SQL injection attack occurs when a malicious user can execute arbitrary SQL code on a database,"(Vincent, 2022)"
-Cross-site scripting (XSS),"XSS is an attack to the webpages where malicious actor injects small bits of code (for e.g., JavaScript) victimizes other users. ""XSS can cause a variety of problems for the end user, ranging in severity from annoyance to complete account compromise""","(Cross Site Scripting (XSS) | OWASP Foundation, n.d.; Vincent, 2022)"
-HTTP Strict Transport Security (HSTS),HSTS is a security policy that allows server to enforce that web browsers should only interact via HTTPS by adding a Strict-Transport-Security header,"(Vincent, 2022)"
-Vulnerability Assessment,Vulnerability Assessment is a process that utilizes specially designed tools such as Qualys and Nessus to scan for vulnerabilities in the system,"(Andress, 2019)"
-Penetration Testing,"Also known as pentesting or ethical hacking, the primary goal of this testing is to identify vulnerabilities in a system so that you can address them before attackers exploit the system","(Andress, 2019)"
-Information Security,"""The term information security means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide integrity, confidentiality, and availability""","(U.S.C. Title 44 - PUBLIC PRINTING AND DOCUMENTS, n.d.)"
-Payment Card Industry Data Security Standard (PCI DSS),The PCI Security Standards Council (PCI SSC) is an organization that establishes data security standards for handling secure payments worldwide,"(Official PCI Security Standards Council Site, n.d.)"
-Lightweight Directory Access Protocol (LDAP),"The Lightweight Directory Access Protocol (LDAP) is a widely used protocol that offers directory services, such as phone books, addresses, and user accounts. It is versatile and capable of storing a diverse range of information","(Kirch & Dawson, 2000; Negus & Bresnahan, 2012)"
-JSON Web Token (JWT),"A widely accepted standard, JSON Web Token (JWT), is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. JWT is commonly employed in scenarios involving authorization and information exchange","(auth0.com, n.d.)"
-Endpoints,"A web API consists of endpoints, which are URLs with a set of HTTP verbs (i.e., ""actions"") exposing data usually in JSON format","(Vincent, 2022)"
-Docker,"""Docker is a way to isolate an entire operating system via Linux containers which are a type of virtualization""","(Vincent, 2022)"
-Command injection,Command injection is a type of injection attack where hackers exploit a website that makes insecure command-line calls to the underlying operating system,"(McDonald, 2020)"
-Swagger,"Swagger is an open-source toolset for designing, building, documenting, and consuming RESTful web services",
-System for Cross-domain Identity Management (SCIM),"System for Cross-domain Identity Management (SCIM), is an HTTP-based protocol; designed to manage user identities in multi-domain scenarios","(Hunt et al., 2015)"
-Virus,A computer virus is a malware that that outspread between computers and damages data or software,"(What Are Computer Viruses?, n.d.)"
-Trojan horse,Trojan horse is a malware disguised as a real program while concealing malicious functionality,
-Kerberos,"Kerberos is a network authentication protocol that provides a means of verifying the ""users"" on an open-unprotected network","(Neuman et al., 2005)"
-DevSecOps,"DevSecOps stands for development, security, and operations. The practice that integrates security throughout the entire IT lifecycle","(What Is DevSecOps?, 2013)"
-CIA Triad,"Three primary concepts in Information Security are common called CIA (Confidentiality, Integrity, and Availability) triad","(Andress, 2019)"
-The Parkerian Hexad,"More complex variation of CIA triad that contains Integrity, Authenticity, Utility, Possession, Availability, and Confidentiality","(Andress, 2019)"
-Fabrication attack,The fabrication attacks involve generating fake information that affects integrity,"(Andress, 2019)"
-Threats,Threats in Cybersecurity means something that has the potential to cause harm,"(Andress, 2019)"
-Mitigate Risks,"Mitigating risks involves implementing measures to address threats. These measures, referred to as controls, are categorized into three types: physical, logical, and administrative","(Andress, 2019)"
-Defense in depth,"It is a strategy common on both military and information domain. It consists of multilayered defense measures i.e., Data, Application, Host, Internal network, External network. This approach ensures that you can still effectively resist a threat even if one or more of your defensive measures fail","(Andress, 2019)"
-The DMZ (Demilitarized Zone),"The DMZ (Demilitarized Zone) is a network area designated for internet services such as Email servers, FTP servers, or Web servers accessible to the public. Usually positioned between the public (internet) and protected zones (private network). If the web server in the DMZ is compromised, the impact is limited to what's within the DMZ, preventing the hacker from affecting the internal LAN (Local Area Network)","(Simple Security, 2015)"
+Term,QuickSummary,Citation,
+IDM,Identity management is the organizational process of making sure that the individuals have the appropriate access to digital resources,"(What Is Identity Management (ID Management)?, n.d.)",
+Access Control List (ACL), ACL is a list of rules that grants or denies users or systems for a particular resource,,
+Exploit,A piece of code that takes advantage of vulnerabilities or security flaws,"(Andress, 2019)",
+Kali Linux,Linux distribution designed for digital forensics and penetration testing preinstalled with more than 600 security and hacking tools,,
+Metasploit,A software that provides information about security vulnerabilities and aids in penetration testing and IDS signature development,"(Metasploit | Penetration Testing Software, Pen Testing Security, n.d.)",
+Reverse Proxy,A type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server,"(Maharjan, 2022)",
+Distributed Denial-of-Service (DDoS) Attack,The attack where attacker floods  a server with lots of distributed traffic so that the service from the server is interrupted,,
+Firewall,A software that continuously monitors and controls for incoming and outgoing traffic based on security rules,,
+Likejacking,A type of clickjacking trick where someone is fooled into liking something on Facebook without knowing or agreeing to it,,
+Clickjacking,Tricking someone to click something for malicious purposes,"(Clickjacking | OWASP Foundation, n.d.)",
+Doppelganger domain,A “fake” domain name that looks similar to the real domain that serves a fake version of the real website ,,
+Cryptography,“The science of making the cost of discovery of hidden information greater than the value of information itself”,"(Andress, 2019)",
+Zero-day start,"“Zero-day start” means when a new employee joins the company her systems, permissions, infrastructure resources, etc are setup and ready immediately","(Windley, 2005)",
+Deprovisioning,"In digital identity, deprovisioing refers to act of removing identities from the system once the “user” is at the end of their digital identity lifecycle",,
+Content Delivery Network  (CDN),"CDNs distribute content to cache servers located near end users, with the objective of providing fast, reliable, and high availability of the data","(Vakali & Pallis, 2003)",
+Traceroute,Traceroute is a network diagnostic command that print the route packets take to network host,,
+Structured Query Language (SQL),"It is a standard language for storing, manipulating and retrieving data in databases. Some examples include MySQL, SQL Server, Oracle, Postgres, etc","(W3Schools Online Web Tutorials, n.d.)",
+Port scanning,"Port scanning is a technique or method that identifies open ports in a system. Once the scanning is completed, the attacker proceeds to carry out attacks and exploits on the system","(Gadge & Patil, 2008)",
+Content Management System (CMS),"“A content management system (CMS) is computer software used to manage the creation and modification of digital content""",,
+Hypertext Transfer Protocol Secure (HTTPS),An extension of HTTP that is used for secure communication,,
+Transport Layer Security (TLS),"""TLS allows client/server applications to communicate over the Internet in a way that is designed to prevent eavesdropping, tampering, and message forgery”","(Rescorla, 2018)",
+Uniform Resource Identifier (URI),“A compact sequence of characters that identifies an abstract or physical resource.” E.g. foo://example.com:8080/path/index.html?query=abc#tag ,"(Berners-Lee et al., 2005)",
+Black hat,"""A computer hacker who violates laws or typical ethical standards for nefarious purposes, such as cybercrime, cyberwarfare or malice”","(“Black Hat (Computer Security),” 2024)",
+Grey hat,"""A computer hacker or computer security expert who may sometimes violate laws or typical ethical standards, but usually does not have the malicious intent typical of a black hat hacker”","(“Grey Hat,” 2023)",
+White hat,"“An ethical security hacker”, under owner’s constent, he/she helps to find vulnerabilities of the system","(“White Hat (Computer Security),” 2023)",
+Remote Code Execution (RCE),RCE is where attacker executes malicious code on a target’s computing device. Two of the well-known RCE attacks are the WannaCry ransomware exploit and the Log4j exploit,"(What Is Remote Code Execution (RCE)?, n.d.)",
+Remote Desktop Protocol (RDP),RDP is a secure network communication protocol offered by Microsoft which allows users to perform remote operations on the another computer,,
+Digital Certificate,It is an electronic document that proves the ownership of public encryption key. Aka public-key certificate,,
+Application Programming Interface (API),API is a formal way to describe two different computers communicating directly with one another,,
+Ransomeware as a Service (RaaS),A subscription-based cybercrime business model that enables affiliates to launch attacks without necessarily knowing the technical skills of the tools,,
+Red Team,"“A red team is a group that pretends to be an enemy, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses”",,
+Backdoor,A backdoor attack lets an attacker bypass normal security measures and access a computer system,"(What Is a Backdoor Attack?, n.d.)",
+Airgap,A system that has no network connection at all,,
+Progressive Web App (PWA),"A Progressive Web App (PWA) is built on web technology, providing users with experience similar to native apps","(Progressive Web Apps | MDN, 2023)",
+Privilege Escalation,"Privilege escalation is divided into two categories (1) vertical escalation, where attacker gets access to an account with broader permissions. (2) Horizontal escalation, where attacker accesses other account with similar privileges",,
+XML Bombs,An XML bomb uses an inline DTD to overload an XML parser (typically HTTP server),"(XML Bomb Security Testing | SoapUI, n.d.)",
+Apache Tomcat,A popular open source web server and Servlet container for Java code,"(What Is Apache Tomcat? | JRebel by Perforce, n.d.)",
+Secure Shell (SSH),The Secure Shell (SSH) Protocol is a protocol for secure remote login and other secure network services over an insecure network,"(Lonvick & Ylonen, 2006)",
+Graph,A graph models a set of connection that shows how different things are connected to one another. It is made up of nodes and edges,"(Bhargava, 2016)",
+Big O notation,Big O notation is a special kind of notation that tells how fast an algorithm is,"(Bhargava, 2016)",
+Breadth-first search (BFS),The algorithm to solve a shortest-path problem is called BFS,"(Bhargava, 2016)",
+Bitcoin (BTC),"Bitcoin is a digital currency, “A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution""","(Nakamoto, 2009)",
+Social Engineering,"The term ""social engineering"" refers to the technique of identifying individuals with access to a system who will willingly or unwillingly share their login credentials with a malicious actor","(Vincent, 2022)",
+SQL Injection,SQL injection attack occurs when a malicious user can execute arbitrary SQL code on a database,"(Vincent, 2022)",
+Cross-site scripting (XSS),"XSS is an attack to the webpages where malicious actor injects small bits of code (for e.g., JavaScript) victimizes other users. ""XSS can cause a variety of problems for the end user, ranging in severity from annoyance to complete account compromise""","(Cross Site Scripting (XSS) | OWASP Foundation, n.d.; Vincent, 2022)",
+HTTP Strict Transport Security (HSTS),HSTS is a security policy that allows server to enforce that web browsers should only interact via HTTPS by adding a Strict-Transport-Security header,"(Vincent, 2022)",
+Vulnerability Assessment,Vulnerability Assessment is a process that utilizes specially designed tools such as Qualys and Nessus to scan for vulnerabilities in the system,"(Andress, 2019)",
+Penetration Testing,"Also known as pentesting or ethical hacking, the primary goal of this testing is to identify vulnerabilities in a system so that you can address them before attackers exploit the system","(Andress, 2019)",
+Information Security,"""The term information security means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide integrity, confidentiality, and availability""","(U.S.C. Title 44 - PUBLIC PRINTING AND DOCUMENTS, n.d.)",
+Payment Card Industry Data Security Standard (PCI DSS),The PCI Security Standards Council (PCI SSC) is an organization that establishes data security standards for handling secure payments worldwide,"(Official PCI Security Standards Council Site, n.d.)",
+Lightweight Directory Access Protocol (LDAP),"The Lightweight Directory Access Protocol (LDAP) is a widely used protocol that offers directory services, such as phone books, addresses, and user accounts. It is versatile and capable of storing a diverse range of information","(Kirch & Dawson, 2000; Negus & Bresnahan, 2012)",
+JSON Web Token (JWT),"A widely accepted standard, JSON Web Token (JWT), is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. JWT is commonly employed in scenarios involving authorization and information exchange","(auth0.com, n.d.)",
+Endpoints,"A web API consists of endpoints, which are URLs with a set of HTTP verbs (i.e., ""actions"") exposing data usually in JSON format","(Vincent, 2022)",
+Docker,"""Docker is a way to isolate an entire operating system via Linux containers which are a type of virtualization""","(Vincent, 2022)",
+Command injection,Command injection is a type of injection attack where hackers exploit a website that makes insecure command-line calls to the underlying operating system,"(McDonald, 2020)",
+Swagger,"Swagger is an open-source toolset for designing, building, documenting, and consuming RESTful web services",,
+System for Cross-domain Identity Management (SCIM),"System for Cross-domain Identity Management (SCIM), is an HTTP-based protocol; designed to manage user identities in multi-domain scenarios","(Hunt et al., 2015)",
+Virus,A computer virus is a malware that that outspread between computers and damages data or software,"(What Are Computer Viruses?, n.d.)",
+Trojan horse,Trojan horse is a malware disguised as a real program while concealing malicious functionality,,
+Kerberos,"Kerberos is a network authentication protocol that provides a means of verifying the ""users"" on an open-unprotected network","(Neuman et al., 2005)",
+DevSecOps,"DevSecOps stands for development, security, and operations. The practice that integrates security throughout the entire IT lifecycle","(What Is DevSecOps?, 2013)",
+CIA Triad,"Three primary concepts in Information Security are common called CIA (Confidentiality, Integrity, and Availability) triad","(Andress, 2019)",
+The Parkerian Hexad,"More complex variation of CIA triad that contains Integrity, Authenticity, Utility, Possession, Availability, and Confidentiality","(Andress, 2019)",
+Fabrication attack,The fabrication attacks involve generating fake information that affects integrity,"(Andress, 2019)",
+Threats,Threats in Cybersecurity means something that has the potential to cause harm,"(Andress, 2019)",
+Mitigate Risks,"Mitigating risks involves implementing measures to address threats. These measures, referred to as controls, are categorized into three types: physical, logical, and administrative","(Andress, 2019)",
+Defense in depth,"It is a strategy common on both military and information domain. It consists of multilayered defense measures i.e., Data, Application, Host, Internal network, External network. This approach ensures that you can still effectively resist a threat even if one or more of your defensive measures fail","(Andress, 2019)",
+The DMZ (Demilitarized Zone),"The DMZ (Demilitarized Zone) is a network area designated for internet services such as Email servers, FTP servers, or Web servers accessible to the public. Usually positioned between the public (internet) and protected zones (private network). If the web server in the DMZ is compromised, the impact is limited to what's within the DMZ, preventing the hacker from affecting the internal LAN (Local Area Network)","(Simple Security, 2015)",
+Integrated Development Environment (IDE),"An IDE is a text editor with a number of other tools included, like interactive debuggers and code introspection","(Matthes, 2023)",
+IDLE,IDLE is a text editor that’s included with Python,"(Matthes, 2023)",
+Portable Operating System Interface (POSIX),POSIX is a family of standards specified by the IEEE  for maintaining compatibility between operating systems,"(“POSIX,” 2024)",
+Backbone,"The Internet backbone is like the main highway for the internet. It consists of coast-to-coast trunk cables of fiber optics;  often referred as ""bib pipes"" and run by Tier 1 ISPs. Ref: ClKn10",[ClKn10], 
+Botnet,"A network of computers operated under commands of an unauthorized remote user. The system or computer on botnets are usually called ""Zombies"". One example include launching DDoS attacks",[ClKn10],
+Crisis Instability,"In cyber warfare, crisis instability refers to the condition that may lead a nation to decide to escalate military actions during hostilities between nations",[ClKn10],
+Cyber Boundary,"""The cyber-kinetic boundary is the decision point at which a nation's decision-maker determines whether and how to transition from a purely cyber war to one involving conventional forces or kinetic weapons. [ClKn10]""",[ClKn10],
